@@ -1,4 +1,5 @@
 # vue-pwa-push-notifications
+Vue PWA with push notifications
 
 ## Project setup
 ```
